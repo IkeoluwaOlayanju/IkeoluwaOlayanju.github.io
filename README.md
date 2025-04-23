@@ -1,5 +1,5 @@
 
-# COVID-19 Data Analysis Dashboard
+# COVID-19 Global Update
 
 ## 📊 Overview
 This project presents an interactive dashboard analyzing the global impact of COVID-19. Using Power BI, I explored confirmed cases, deaths, recoveries, and healthcare access trends across countries and regions.
@@ -7,7 +7,7 @@ This project presents an interactive dashboard analyzing the global impact of CO
 ## 🛠️ Tools & Technologies
 - Power BI
 - Microsoft Excel
-- Public COVID-19 datasets (e.g., WHO, Johns Hopkins)
+- Public COVID-19 datasets (sourced from kaggle)
 
 ## 🔍 Key Features
 - **Global Trends**: Total confirmed cases, deaths, and recoveries over time  
@@ -32,4 +32,4 @@ This project presents an interactive dashboard analyzing the global impact of CO
 
 ---
 
-*Project by Olayanju Ikeoluwa Ruth*
+*Axia Cohort 7 Group Project*
